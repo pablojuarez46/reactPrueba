@@ -24,6 +24,6 @@ export default function Welcoms(props){
                 Sumar contador
             </button>
         </div>    
-
+    //prueba de React y Git
     );
 }
