@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+//estoy en la rama main2
+
 export default function Welcoms(props){
     const [counter, setCounter] = useState(0);
     const [semaforo, setSemaforo] = useState(false);
