@@ -11,6 +11,7 @@ export default function Welcoms(props){
         setSemaforo(!semaforo);
     };
 
+    //prueba
     console.log(semaforo);
 
     return(
