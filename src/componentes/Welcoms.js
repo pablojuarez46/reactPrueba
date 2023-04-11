@@ -26,5 +26,7 @@ export default function Welcoms(props){
             </button>
         </div>    
 
+        //quiero seguir jugando
+
     );
 }
