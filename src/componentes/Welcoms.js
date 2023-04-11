@@ -26,13 +26,6 @@ export default function Welcoms(props){
             <button typo="submit" onClick={contar} >
                 Sumar contador
             </button>
-        </div>    
-<<<<<<< HEAD
-
-        //quiero seguir jugando
-
-=======
-    //prueba de React y Git
->>>>>>> pruebaReact
+        </div> 
     );
 }
